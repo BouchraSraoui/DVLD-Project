@@ -1,0 +1,65 @@
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.exe.config
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.exe
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.exe
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.exe.config
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\obj\Debug\Business.9C861379.Up2Date
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.exe
+C:\Users\DELL\OneDrive\Desktop\DVLD Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\obj\Debug\Business.9C861379.Up2Date
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\Business.9C861379.Up2Date
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\AI Resources\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\Business.9C861379.Up2Date
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\Computer Science\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\BusinessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll.config
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\Business.9C861379.Up2Date
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.dll
+C:\Users\DELL\OneDrive\Desktop\MiniProjects\DVlD_Project\BusinessLayerDVLD\obj\Debug\BusinessLayerDVLD.pdb

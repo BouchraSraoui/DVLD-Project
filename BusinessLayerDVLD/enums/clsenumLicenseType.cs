@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BusinessLayerDVLD.enums
+{
+    public enum LicenseType
+    { 
+        LocalLicense = 1,
+        InternationalLicense = 2
+    }
+
+}
